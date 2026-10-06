@@ -13,7 +13,7 @@ In dieser Übung wollen wir einige Event Listener / Handler kennen lernen und sc
 
 
 ## Aufgabe 2: Checkbox
-- Schreibe ein "input" Element, gibt ihm das Attribut `type="checkbox"` Logge `e.target.checked` mit Hilfe eines "onChange" (nicht: "onClick") EventHandlers. Was wird in der Konsole angezeigt?
+- Schreibe ein "input" Element, gibt diesem das Attribut `type="checkbox"` Logge `e.target.checked` mit Hilfe eines "onChange" (nicht: "onClick") EventHandlers. Was wird in der Konsole angezeigt?
 
 ## Aufgabe 3: Textfeld
-- Schreibe ein "input" Element, gib ihm das Attribut `type="text"`. Füge den Event Listener "onKeyDown" hinzu. Logge e.key  (anstatt e.target.value). Was wird geloggt, wenn du im Textfeld schreibst und dann "Enter" drückst?
+- Schreibe ein "input" Element, gib diesem das Attribut `type="text"`. Füge den Event Listener "onKeyDown" hinzu. Logge e.key  (anstatt e.target.value). Was wird geloggt, wenn du im Textfeld schreibst und dann "Enter" drückst?
